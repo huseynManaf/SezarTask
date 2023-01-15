@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\StringTaskss\StringTaskss\obj\Debug\net6.0\StringTaskss.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\StringTaskss\StringTaskss\obj\Debug\net6.0\StringTaskss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\StringTaskss\StringTaskss\obj\Debug\net6.0\StringTaskss.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\StringTaskss\StringTaskss\obj\Debug\net6.0\StringTaskss.AssemblyInfo.cs
+C:\Users\User\source\repos\StringTaskss\StringTaskss\obj\Debug\net6.0\StringTaskss.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\StringTaskss\StringTaskss\bin\Debug\net6.0\StringTaskss.exe
+C:\Users\User\source\repos\StringTaskss\StringTaskss\bin\Debug\net6.0\StringTaskss.deps.json
+C:\Users\User\source\repos\StringTaskss\StringTaskss\bin\Debug\net6.0\StringTaskss.runtimeconfig.json
+C:\Users\User\source\repos\StringTaskss\StringTaskss\bin\Debug\net6.0\StringTaskss.dll
+C:\Users\User\source\repos\StringTaskss\StringTaskss\bin\Debug\net6.0\StringTaskss.pdb
+C:\Users\User\source\repos\StringTaskss\StringTaskss\obj\Debug\net6.0\StringTaskss.dll
+C:\Users\User\source\repos\StringTaskss\StringTaskss\obj\Debug\net6.0\refint\StringTaskss.dll
+C:\Users\User\source\repos\StringTaskss\StringTaskss\obj\Debug\net6.0\StringTaskss.pdb
+C:\Users\User\source\repos\StringTaskss\StringTaskss\obj\Debug\net6.0\StringTaskss.genruntimeconfig.cache
+C:\Users\User\source\repos\StringTaskss\StringTaskss\obj\Debug\net6.0\ref\StringTaskss.dll
